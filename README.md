@@ -1,7 +1,7 @@
-### Eae Pessoal pode me chamar de Jon! 
+### Eai Pessoal tudo beleza? 
 
-- 🔭 It Business Analysis Cognizant
-- 🌱 Estudando JavaScript,Python e Cloud.
+- 🔭 Atualmente trabalhando como It Business Analysis na Cognizant.
+- 🌱 Estudando JavaScript,Python e Goolge Cloud.
 - 💬 Jonathan7ar@gmail.com
 
 <div align="center">
