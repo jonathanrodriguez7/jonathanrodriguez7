@@ -1,7 +1,7 @@
 ### Eai Pessoal tudo beleza? 
 
 - 🔭 Atualmente trabalhando como It Business Analysis na Cognizant.
-- 🌱 Estudando JavaScript,Python e Goolge Cloud.
+- 🌱 Estudando JavaScript, Python e Goolge Cloud.
 - 💬 Jonathan7ar@gmail.com
 
 <div align="center">
