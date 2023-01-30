@@ -1,7 +1,7 @@
 ### Eai Pessoal tudo beleza? 
 
 - 🔭 Atualmente trabalhando como It Business Analysis na Cognizant.
-- 🌱 Cursando segurança da informação (Senac) Foco em Web - FrameWork, HTML, CSS e Javascript
+- 🌱 Cursando segurança da informação (Senac).
 - 💬 Jonathan7ar@gmail.com
 
 <div align="center">
