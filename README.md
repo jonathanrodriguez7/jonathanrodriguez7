@@ -15,8 +15,7 @@
       
      <a href = "mailto:contatojonathan7ar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
      
-    <a href = "https://www.hackerrank.com/jonathan7ar"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
-       target="_blank"></a>
+     <a href = "https://www.hackerrank.com/jonathan7ar"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a> 
   
  ![Snake animation](https://github.com/jonathanrodriguez7/jonathanrodriguez7/blob/output/github-contribution-grid-snake.svg)
 </div>
