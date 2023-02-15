@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando como It Business Analysis na Cognizant.
 - 🌱 Cursando segurança da informação (Senac).
-- 💬 Jonathan7ar@gmail.com
+- 💬 Amigo do Alan Turing 
 
 <div align="center">
   <a href="https://github.com/jonathanrodriguez7">  
