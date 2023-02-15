@@ -3,7 +3,6 @@
 - 🔭 Atualmente trabalhando como It Business Analysis na Cognizant.
 - 🌱 Cursando segurança da informação (Senac).
 - 💬 Amigo do Alan Turing 
-- Estudando historia da tecnologia michigan 
 
 <div align="center">
   <a href="https://github.com/jonathanrodriguez7">  
