@@ -1,6 +1,6 @@
 ### Eai Pessoal tudo beleza? 
 
-- 🔭 Atualmente trabalhando Developer Analyst Full na Cognizant.
+- 🔭 Atualmente trabalhando como Developer Analyst Full na Cognizant.
 - 💬 Amigo do Alan Turing 
 
 <div align="center">
