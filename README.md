@@ -1,8 +1,4 @@
-### Eai Pessoal tudo beleza? 
-
-- 🔭 Atualmente trabalhando como Developer Analyst Full na Cognizant.
-- 💬 Amigo do Alan Turing 
-
+### Desenvolvedor FullStack
 <div align="center">
   <a href="https://github.com/jonathanrodriguez7">  
 </div>
